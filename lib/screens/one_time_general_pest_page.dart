@@ -24,7 +24,7 @@ class OneTimeGeneralPestPage extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Banner (simple - no warranty)
+              // Banner (simple - no warranty)s
               ClipRRect(
                 borderRadius: BorderRadius.circular(18),
                 child: Stack(
